@@ -27,4 +27,4 @@ describe('index.js', function() {
       expect(max).to.eq(20)
     });
   });
-});
+}); 
